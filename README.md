@@ -1,8 +1,10 @@
 # tfwin
 On the Power of the World’s Invariants: When Truth Finding Meets Temporal Unstructured Data
+
 Submitted to ACM SIGKDD 2018
 
 Authors: Xueying Wang, Qi Li, Meng Jiang
+
 Emails: {xwang41, qli8, mjiang2}@nd.edu
 
 Abstract:
