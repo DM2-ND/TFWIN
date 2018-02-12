@@ -151,7 +151,7 @@ def TFWINX111(typepair,entitytype,valuetype,constrainttype,attribute):
                                 if score >= -1.0-1e-6 and score < -1.0+1e-6: break
                                 validtype = GetValidTypeX111(entity,value,year,entity2value2period,value2entity,entity2year2value)
                                 if validtype == 'F': break
-                                if validtype == 'Y': continue
+                                if validtype == 'T': continue
                                 yearstart,yearend = -1,-1
                                 if entity in entity2value2period and value in entity2value2period[entity]:
                                         [yearstart,yearend] = entity2value2period[entity][value]
@@ -296,7 +296,7 @@ def TFWINXXX1(typepair,entitytype,valuetype,constrainttype,attribute):
                                 if score >= -1.0-1e-6 and score < -1.0+1e-6: break
                                 validtype = GetValidTypeXXX1(entity,value,year,value2year2entity)
                                 if validtype == 'F': break
-                                if validtype == 'Y': continue
+                                if validtype == 'T': continue
                                 yearstart,yearend = -1,-1
                                 if entity in entity2value2period and value in entity2value2period[entity]:
                                         [yearstart,yearend] = entity2value2period[entity][value]
