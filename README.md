@@ -10,7 +10,7 @@ If you use the code/data please cite this paper:
 @inproceedings{wang2019novel,
   title={A Novel Unsupervised Approach for Precise Temporal Slot Filling from Incomplete and Noisy Temporal Contexts},
   author={Wang, Xueying and Zhang, Haiqiao and Li, Qi and Shi, Yiyu and Jiang, Meng},
-  booktitle={Proceedings of the Web Conference},
+  booktitle={Proceedings of TheWebConf 2019},
   year={2019}
 }
 ```
