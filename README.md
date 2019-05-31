@@ -34,4 +34,6 @@ RANKPATTERN \t PATTERN \t ENTITYPOS \t VALUEPOS \t RANKENTITYVALUETM \t ENTITY \
 
 Besides, ground truth for "country's president" is collected in "groundtruth_president". 
 
+# Codes 
+The source codes of our models are in "tfwin.py", run with python 2.7
 
