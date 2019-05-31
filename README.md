@@ -32,6 +32,6 @@ Format of these four datasets are same, for each line:
 RANKPATTERN \t PATTERN \t ENTITYPOS \t VALUEPOS \t RANKENTITYVALUETM \t ENTITY \t VALUE \t TM \t COUNT
 ```
 
-Besides, ground truth for "country's president" case are collected in "groundtruth_president". 
+Besides, ground truth for "country's president" is collected in "groundtruth_president". 
 
 
