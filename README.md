@@ -5,5 +5,5 @@ Accepted to TheWebConf 2019
 
 Authors: Xueying Wang (xwang41@nd.edu), Haiqiao Zhang, Qi Li, Yiyu Shi, Meng Jiang
 
-Documentation: Coming soon...
+If you use the code/data please cite this paper: 
 
