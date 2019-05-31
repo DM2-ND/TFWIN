@@ -1,8 +1,6 @@
 # TFWIN
 
-Source code and dataset of TheWebConf 2019 paper: "A Novel Unsupervised Approach for Precise Temporal Slot Filling from Incomplete and Noisy Temporal Contexts"
-
-Authors: Xueying Wang (xwang41@nd.edu), Haiqiao Zhang, Qi Li, Yiyu Shi, Meng Jiang
+Source code and dataset of TheWebConf 2019 paper: "A Novel Unsupervised Approach for Precise Temporal Slot Filling from Incomplete and Noisy Temporal Contexts" [[pdf]](http://www.meng-jiang.com/pubs/tfwin-www19/tfwin-www19-paper.pdf)
 
 If you use the code/data please cite this paper: 
 
@@ -36,4 +34,8 @@ Besides, ground truth for "country's president" is collected in "groundtruth_pre
 
 # Codes 
 The source codes of our models are in "tfwin.py", run with python 2.7
+
+# Contact 
+Xueying Wang (xwang41@nd.edu)
+
 
