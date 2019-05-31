@@ -22,12 +22,12 @@ In this work, we proposed an unsupervised approach of two modules that mutually 
 # Data
 This folder "data" contains 4 structured datasets for termpoal facts extraction. 
 
-data_post_CP: country's president data with post time signal 
-data_post_SP: sport's player data with post time signal 
-data_text_CP: country's president data with text time signal
-data_text_CP: sport's player data with text time signal
+data_post_CP: country's president data with post time signal    
+data_post_SP: sport's player data with post time signal     
+data_text_CP: country's president data with text time signal    
+data_text_CP: sport's player data with text time signal    
 
-Format of these four datasets are same, for each line: 
+Format of these four datasets are same, for each line:  
 ```
 {RANKPATTERN \t PATTERN \t ENTITYPOS \t VALUEPOS \t RANKENTITYVALUETM \t ENTITY \t VALUE \t TM \t COUNT}
 ```
