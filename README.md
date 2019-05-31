@@ -1,4 +1,4 @@
-# tfwin
+# TFWIN
 A Novel Unsupervised Approach for Precise Temporal Slot Filling from Incomplete and Noisy Temporal Contexts
 
 Accepted to TheWebConf 2019
