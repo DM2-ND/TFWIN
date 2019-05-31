@@ -17,11 +17,19 @@ If you use the code/data please cite this paper:
 
 # Overview
 
+In this work, we proposed an unsupervised approach of two modules that mutually enhance each other: one is a reliability estimator on fact extractors conditionally to the temporal contexts; the other is a fact trustworthiness estimator based on the extractor’s reliability. The iterative learning process reduces the noise of the extractions. 
 
 # Data
-This folder "data" contains 4   
+This folder "data" contains 4 structured datasets for termpoal facts extraction. 
 
-# Experimental Results 
+data_post_CP: country's president data with post time signal 
+data_post_SP: sport's player data with post time signal 
+data_text_CP: country's president data with text time signal
+data_text_CP: sport's player data with text time signal
 
+Format of these four datasets are same, for each line: 
+{RANKPATTERN \t PATTERN \t ENTITYPOS \t VALUEPOS \t RANKENTITYVALUETM \t ENTITY \t VALUE \t TM \t COUNT}
+
+Besides, ground truth for "country's president" case are collected in "groundtruth_president". 
 
 
